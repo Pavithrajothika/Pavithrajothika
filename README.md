@@ -59,6 +59,8 @@ Become a Software Engineer and build impactful software products.
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![Antigravity](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
 
 # 📚 Core Skills
@@ -77,11 +79,11 @@ Become a Software Engineer and build impactful software products.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀  Projects
 
 🔹 Learning Management System
 
-🔹 Home Rental System
+🔹e Commerce Website
 
 🔹 Leave Management System
 
@@ -105,9 +107,7 @@ Become a Software Engineer and build impactful software products.
 
 # 🌱 Currently Learning
 
-✔ Spring Boot
-
-✔ React
+✔ AI Learning
 
 ✔ Full Stack Development
 
@@ -120,7 +120,7 @@ Become a Software Engineer and build impactful software products.
 📧 pavithra.s2024ece@sece.ac.in
 
 💼 LinkedIn:
-https://linkedin.com/in/pavithra-s
+www.linkedin.com/in/pavithra-s-864aa8333
 
 💻 GitHub:
 https://github.com/Pavithrajothika
