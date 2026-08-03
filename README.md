@@ -89,7 +89,6 @@ Become a Software Engineer and build impactful software products.
 
 🔹 Local Pickup Scheduler
 
-🔹 Wishlist & Notification System
 
 ---
 
