@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavithra S</h1>
 
 <h3 align="center">
-🚀 Aspiring Full Stack Developer | Java | Spring Boot | React | MySQL
+🚀 Aspiring Full Stack Developer |  AI Learner
 </h3>
 
 <p align="center">
